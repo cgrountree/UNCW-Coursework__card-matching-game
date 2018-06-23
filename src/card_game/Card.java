@@ -1,4 +1,4 @@
-package assignment4;
+package card_game;
 
 import java.awt.Color;
 import java.awt.Dimension;
